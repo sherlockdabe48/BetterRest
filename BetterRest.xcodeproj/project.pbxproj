@@ -26,6 +26,7 @@
 		9ED281932681690400B6BFD3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9ED281952681690400B6BFD3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9ED2819B2681876E00B6BFD3 /* SleepCalculator.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = SleepCalculator.mlmodel; sourceTree = "<group>"; };
+		9ED2819D2681D10B00B6BFD3 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +43,7 @@
 		9ED2817B2681690100B6BFD3 = {
 			isa = PBXGroup;
 			children = (
+				9ED2819D2681D10B00B6BFD3 /* README.md */,
 				9ED281862681690100B6BFD3 /* BetterRest */,
 				9ED281852681690100B6BFD3 /* Products */,
 			);
